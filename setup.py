@@ -35,7 +35,7 @@ setup(
     packages=find_packages(include=['aperitive']),
     entry_points={
         'console_scripts': [
-            'aperitive=aperitive.cli:main'
+            'aperitive=aperitive.console:main'
         ]
     },
     include_package_data=True,

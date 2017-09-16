@@ -1,0 +1,15 @@
+#################
+# GitLab Server #
+#################
+
+gitlab.server: %(gitlab_server)s
+gitlab.user: %(gitlab_user)s
+gitlab.password: %(gitlab_user_password)s
+
+##################
+# Redmine Server #
+##################
+
+redmine.server: %(redmine_server)s
+redmine.user: %(redmine_user)s
+redmine.password: %(redmine_user_password)s
