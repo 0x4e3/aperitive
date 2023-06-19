@@ -10,4 +10,4 @@ sphinx-rtd-theme==1.2.2
 cryptography==41.0.1
 PyYAML==6.0
 pytest==7.3.2
-pytest-runner==2.12.1
+pytest-runner==6.0.0
