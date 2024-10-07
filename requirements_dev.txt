@@ -8,6 +8,6 @@ coverage==7.6.1
 Sphinx==8.0.2
 sphinx-rtd-theme==3.0.0
 cryptography==43.0.1
-PyYAML==3.12
+PyYAML==6.0.2
 pytest==3.2.2
 pytest-runner==2.12.1
