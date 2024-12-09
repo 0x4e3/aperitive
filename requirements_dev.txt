@@ -4,7 +4,7 @@ wheel==0.45.1
 watchdog==6.0.0
 flake8==7.1.1
 tox==4.23.2
-coverage==4.4.1
+coverage==7.6.9
 Sphinx==1.6.3
 sphinx-rtd-theme==0.2.4
 cryptography==2.0.3
